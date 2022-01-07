@@ -29,11 +29,13 @@ h1{
     align-items: center;
     justify-content: center;
     gap: 0px;
+    flex-wrap: wrap;
 }
 
 
 
 a img{
+    
     width: 250px;
     height: 250px;
     border-radius: 1.5em;
